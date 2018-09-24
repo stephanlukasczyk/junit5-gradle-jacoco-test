@@ -8,5 +8,5 @@ Feel free to use it for your own projects.
 
 ## License
 
-The content is licensed under 
-[CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/) (Public Domain).
+The content is licensed under
+[MIT License](https://https://opensource.org/licenses/MIT).
